@@ -1,6 +1,6 @@
 # 0008_ConditionalStatements
 
-I did a sample example relevant to conditional statements.
+I did a sample code relevant to conditional statements.
 
 # Sample Exercise
 
