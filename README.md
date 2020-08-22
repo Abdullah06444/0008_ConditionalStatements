@@ -11,16 +11,19 @@ I did a sample code relevant to conditional statements.
 **Output: monthly tax**
 
 |:Example 1:|
+
 >800
 
 >0.00
 
 |:Example 2:|
+
 >1600
 
 >160.00
 
 |:Example 3:|
+
 >5000
 
 >750.00
