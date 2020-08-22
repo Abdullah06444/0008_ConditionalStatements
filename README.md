@@ -10,19 +10,19 @@ I did a sample code relevant to conditional statements.
 **Input: income**
 **Output: monthly tax**
 
-|:Example 1:|
+*Example 1:
 --
 >800
 
 >0.00
 
-|:Example 2:|
+*Example 2:
 --
 >1600
 
 >160.00
 
-|:Example 3:|
+*Example 3:
 --
 >5000
 
