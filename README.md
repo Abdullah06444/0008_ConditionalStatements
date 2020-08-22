@@ -12,14 +12,17 @@ I did a sample example relevant to conditional statements.
 
 |:Example 1:|
 >800
+
 >0.00
 
 |:Example 2:|
 >1600
+
 >160.00
 
 |:Example 3:|
 >5000
+
 >750.00
 
 **Hint: %.2f format specifier prints 2 digit precision for floating point numbers.**
