@@ -6,7 +6,6 @@ namespace CSharp0008_ConditionalStatements
     {
         static void Main(string[] args)
         {
-
             Console.Write("The monthly income is ");
             int monthly_income = int.Parse(Console.ReadLine());
             float monthly_tax;
@@ -23,7 +22,7 @@ namespace CSharp0008_ConditionalStatements
 
                 monthly_tax = (float)(0.1 * monthly_income);
                 Console.Write("S/He should pay ");
-                Console.WriteLine(String.Format("{0:0.00}" , monthly_tax) + " TL.");
+                Console.WriteLine(String.Format("{0:0.00}", monthly_tax) + " TL.");
             }
             else
             {
