@@ -23,7 +23,7 @@ int main()
 	else {
 
 		monthly_tax = (0.15 * monthly_income);
-		std::cout << "S/He should pay " << std::fixed << std::setprecision(2) <<  monthly_tax << " TL.";
+		std::cout << "S/He should pay " << std::fixed << std::setprecision(2) << monthly_tax << " TL.";
 	}
 
 	std::cout << std::endl << "You have to do it for living free in this country. :D" << std::endl;
